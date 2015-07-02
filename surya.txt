@@ -1,5 +1,11 @@
 Hi ! Introducing my family
 
 Nagaraju - Father
+<<<<<<< HEAD
 
 Sailaja - Mother
+||||||| merged common ancestors
+=======
+
+Surya - Myself
+>>>>>>> sonfamily
