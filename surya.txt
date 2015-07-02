@@ -2,6 +2,7 @@ Hi ! Introducing my family
 
 Nagaraju - Father
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Sailaja - Mother
 ||||||| merged common ancestors
@@ -9,3 +10,7 @@ Sailaja - Mother
 
 Surya - Myself
 >>>>>>> sonfamily
+||||||| merged common ancestors
+=======
+Sriya - Sister
+>>>>>>> daughterfamily
